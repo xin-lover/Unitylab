@@ -1,2 +1,5 @@
 #.sh
 *.sh
+
+#.meta
+*.meta
